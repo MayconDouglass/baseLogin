@@ -1,0 +1,21 @@
+form.user .control-user {
+    font-size: .8rem;
+    border-radius: 2rem 2rem 2rem 2rem;
+    padding: 1.2rem 1rem;
+    text-align: center;
+}
+
+form.user .control-password {
+    font-size: .8rem;
+    border-radius: 2rem 2rem 2rem 2rem;
+    padding: 1.2rem 1rem;
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    /* background: url(/storage/img/background/bg.jpg); */
+    background-image: linear-gradient(to bottom, transparent 40%, #048f83 100%), url(/storage/img/background/bg.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
